@@ -1,4 +1,4 @@
-# 🧠 Salt and Pepper 
+# 🔑 Salt and Pepper 
 
  **Parsa:**  
 > So here we are — **salt** and **pepper**!
