@@ -11,7 +11,7 @@
 > Maybe… we're cooking passwords! 
 
 🗨 <div align="right"><strong>:Yazdan</strong>  
-> Yazdan: Hmmm. Can you explain a little more? 
+> Hmmm. Can you explain a little more? 
 </div>
 
  **Parsa:**  
@@ -31,7 +31,7 @@ If we hash them without anything else, the hash will be exactly the same for bot
 That’s bad — hackers can easily spot popular passwords.
 
 🗨 <div align="right"><strong>:Yazdan</strong>  
-> Yazdan: Yazdan: So... same password = same hash?   
+> So... same password = same hash?   
 </div>
 
 **Parsa**: 
