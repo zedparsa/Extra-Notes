@@ -1,4 +1,4 @@
-## ⁉ Hash function
+## 🔑 Hash function
 
 ### 💬Conversation
 - Before we define what a hash is, let’s see what this conversation is all about :
