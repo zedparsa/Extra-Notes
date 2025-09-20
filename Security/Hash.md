@@ -1,7 +1,7 @@
 ## 🔑 Hash function
 
 ### 💬Conversation
-> Before we define what a hash is, let’s see what this conversation is all about :
+Before we define what a hash is, let’s see what this conversation is all about :
 
  **Parsa:**  
 > A hash function is a type of **one-way function**.
