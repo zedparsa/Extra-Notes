@@ -48,7 +48,7 @@ Once inside, you open a session to a specific device using a command like:
 telnet 192.168.1.100 2002
 ```
 > ℹ️ **Note:** If you're not familiar with **Telnet** or would like to explore it in more detail,  
-> check out [this dedicated Telnet note](./Telnet.md) where I break it down simply and clearly.
+> check out [this note](./Telnet.md) where I break it down simply and clearly.
 
 (which connects you to device #2 via its console line)  
 ✅ You only need one IP address — the terminal server's — to manage all your devices.
