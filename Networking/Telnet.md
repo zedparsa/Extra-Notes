@@ -30,6 +30,18 @@ In the same way, **RMPs** let you control your network devices from a distance.
 
 **Telnet** is a remote communication protocol that allows you to access and control a network device (like a router or switch) using a command-line interface — from anywhere, without needing to physically touch the device.
 
+### 🔍 Let's Get Deep into Telnet
+
+When you use Telnet to access a network device, here's what happens step-by-step across the **TCP/IP layers**:
+
+1. **Application Layer** — The Telnet protocol is triggered by the client to initiate a remote session.
+2. **Transport Layer** — A TCP connection is established to the destination device on **port 23**.
+3. **Network Layer** — The data is wrapped into IP packets with the **destination IP address**.
+4. **Data Link Layer** — The packets are framed with the **MAC address** of the next-hop device (like a router or switch).
+5. **Physical Layer** — The frames are converted into electrical signals or radio waves and physically transmitted through a **cable or wireless medium**.
+
+✏ So, **Telnet is considered an Application Layer protocol**, but it relies on all lower layers to actually transmit the data across the network.
+
 
 
 ### 🧠 Why Does It Matter?
