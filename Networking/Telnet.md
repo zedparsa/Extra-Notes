@@ -23,3 +23,49 @@ In the same way, **RMPs** let you control your network devices from a distance.
 
 **Parsa:** 
 > Absolutely.
+
+## 🧠 Telnet (Telecommunication Network)
+
+### 🧩 Simple Definition
+
+**Telnet** is a remote communication protocol that allows you to access and control a network device (like a router or switch) using a command-line interface — from anywhere, without needing to physically touch the device.
+
+
+
+### 🧠 Why Does It Matter?
+
+- 🔹 **Remote Management**: It lets you configure devices over the network — like routers, switches, or servers — without being physically near them.
+- 🔹 **Historical Importance**: Telnet was one of the first ways to manage systems remotely over TCP/IP.
+- 🔹 **Foundation for SSH**: Modern secure protocols like SSH were designed as improvements over Telnet.
+
+
+
+### ⚙️ How It Works (Conceptually)
+
+1. A device (like your PC) initiates a Telnet session to another device using its IP address and **port 23**.
+2. If the destination device has Telnet enabled and accessible, it opens a **VTY (virtual terminal) line** for communication.
+3. From there, you type commands and receive output — just like you're sitting at the device's console.
+
+Behind the scenes:
+- It's **text-based**
+- Uses **TCP** as transport (reliable delivery)
+- Everything — including passwords — is sent as **plain text** (⚠️ insecure)
+
+### 🔐 Real-World Use Cases
+
+- ✅ **Managing Cisco Routers or Switches in Labs** — great for beginners practicing basic device configuration.
+- ✅ **Accessing Legacy Systems** — some older systems still rely on Telnet for remote access.
+- ✅ **Network Troubleshooting in Isolated Environments** — like test environments without security concerns.
+
+
+
+### 📦 Example
+
+Imagine you want to configure a router from your laptop, but the router is in another room.
+
+```text
+Your Laptop    ────── Telnet ──────>    Router (192.168.1.1)
+```
+```
+telnet 192.168.1.1
+```
