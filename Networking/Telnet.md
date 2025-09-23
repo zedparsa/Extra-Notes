@@ -1,4 +1,4 @@
-### 🗣️ Telnet — Dialog Style
+## 🗣️ Telnet — Conversation
 
 **Parsa:** 
 > Telnet, or *Telecommunication Network*, is a type of **RMP**.
