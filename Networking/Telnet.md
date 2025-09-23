@@ -1,7 +1,8 @@
 ### 🗣️ Telnet — Dialog Style
 
 **Parsa:** 
-> Telnet, or *Telecommunication Network*, is a type of **RMP**.  
+> Telnet, or *Telecommunication Network*, is a type of **RMP**.
+
 🗨 <div align="right"><strong>:Yazdan</strong>
  > What’s RMP?  
  </div>
