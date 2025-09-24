@@ -82,3 +82,13 @@ Your Laptop    ────── Telnet ──────>    Router (192.168.
 ```
 telnet 192.168.1.1
 ```
+
+
+"There is a Telnet capture in Wireshark (This is not mine; I discovered it on the internet).
+
+As you can see,
+```
+the username : fake 
+the password : user
+``` 
+It is even clear that the system told me when the last login occurred. Then I pinged Yahoo, and it showed the pings in the capture."
