@@ -85,7 +85,7 @@ telnet 192.168.1.1
 
 
 There is a **Telnet capture in Wireshark** (This is not mine; I discovered it on the internet).
-
+![telnet wireshark](Pictures/telnet.png)
 As you can see,
 ```
 the username : fake 
