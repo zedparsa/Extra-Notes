@@ -74,7 +74,7 @@ Behind the scenes:
 
 ### 📦 Example
 
-Imagine you want to configure a router from your laptop, but the router is in another room.
+Imagine you want to configure a router from your laptop, but the router is in another room.  
 
 ```text
 Your Laptop    ────── Telnet ──────>    Router (192.168.1.1)
