@@ -59,3 +59,6 @@ The server asks for a password or key authentication.
 After authentication, the user gets a secure shell prompt:
 user@remote-server:~$
 ```
+
+Everything typed (password, commands) is encrypted.  
+Even if someone captures the packets, they cannot read the data.
