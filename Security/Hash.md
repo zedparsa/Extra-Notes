@@ -6,7 +6,7 @@ Before we define what a hash is, let’s see what this conversation is all about
  **Parsa:**  
 > A hash function is a type of **one-way function**.
 
-🗨 <div align="right"><strong>Yazdan:</strong>  
+🗨 <div align="right"><strong>:Yazdan</strong>  
 > What does “one-way function” mean?  
 </div>
 
