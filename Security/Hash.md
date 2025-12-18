@@ -24,14 +24,14 @@ Before we define what a hash is, let’s see what this conversation is all about
 > A hash converts any input into a fixed-length output.  
 > You can’t easily go backwards from the output.
 
-🗨 <div align="right"><strong>Yazdan:</strong>  
+🗨 <div align="right"><strong>:Yazdan</strong>  
 > Where is it used? Why was such a function created?  
 </div>
 
  **Parsa:**  
 > It's used to verify data, check if files have changed, and keep systems secure.
 
-🗨 <div align="right"><strong>Yazdan:</strong>  
+🗨 <div align="right"><strong>:Yazdan</strong>  
 > Can you give me an example for each? Especially for security.  
 </div>
 
