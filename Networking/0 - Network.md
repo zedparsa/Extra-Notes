@@ -98,3 +98,16 @@ Imagine two computers connected with a cable:
 ```text
 PC A  ───────────>  PC B
 ```
+PC A sends :
+```
+Input:   "Hello"
+```
+
+PC B recives :
+```
+Output:  "Hello"
+```
+
+### 🧠 Key Takeaway  
+- A network is not about devices  
+- it’s about communication between devices.
