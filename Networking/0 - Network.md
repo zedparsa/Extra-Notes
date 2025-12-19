@@ -18,17 +18,20 @@ Not the exam definition — the real meaning.
 
 **Parsa:**  
 > That’s not wrong… but it’s incomplete.  
-Let’s build it properly, from zero.
+Let’s build it properly, from zero.  
+A network means communication between entities.  
+For example, when you talk to someone, you create a form of communication.  
+In the technology world, a network means communication between devices.  
+
 
 ---
 
-# 🧠 Network
+## 🧠 Network
 
 > A clear and practical explanation of what a **network** is, why it matters, and how devices communicate — without jumping into commands or protocols.
 
----
 
-## 🧩 Simple Definition
+### 🧩 Simple Definition
 
 A **network** is a group of devices that are connected so they can **communicate**, **share data**, and **share resources** with each other.
 
@@ -42,9 +45,8 @@ These devices can be:
 
 If devices can talk to each other → you have a network.
 
----
 
-## 🧠 Why Does It Matter?
+### 🧠 Why Does It Matter?
 
 - 🔹 **Communication**  
   Networks allow devices to send messages, files, and data to each other.
@@ -61,9 +63,8 @@ Without networks:
 - No messaging apps
 - No online services
 
----
 
-## ⚙️ How It Works (Conceptually)
+### ⚙️ How It Works (Conceptually)
 
 At the most basic level, networking works like this:
 
@@ -82,7 +83,6 @@ At the most basic level, networking works like this:
 From your perspective, it feels instant —  
 but behind the scenes, data is constantly moving across the network.
 
----
 
 ## 🔐 Real-World Use Cases
 
@@ -90,7 +90,6 @@ but behind the scenes, data is constantly moving across the network.
 - ✅ **Enterprise Networks** — Allow employees to access internal systems and the Internet.
 - ✅ **The Internet** — A massive global network connecting billions of devices.
 
----
 
 ## 📦 Example
 
